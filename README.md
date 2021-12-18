@@ -22,7 +22,7 @@
 
 <br />
 
-> [Buy Product](https://appseed.gumroad.com/l/flask-material2-pro/santa2022) - **50%OFF Discount** (offer ends 31.Dec) 
+> [Buy Product](https://appseed.gumroad.com/l/flask-material2-pro/santa2022) - **50%OFF Discount** (offer ends 31.Dec) / `Secured by Gumroad`
 
 <br />
 
