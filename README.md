@@ -20,8 +20,12 @@
 
 > Links
 
-- [Flask Material 2 PRO](https://appseed.us/product/flask-material-dashboard2-pro) - product page
+- [Flask Material 2 PRO](#) - Product page (coming soon)
 - [Flask Material 2 PRO](https://flask-material-dashboard2-pro.appseed-srv1.com) - LIVE deployment
+
+<br />
+
+> [Buy on GUMROAD](https://appseed.gumroad.com/l/django-material2-pro/santa2022) - **50%OFF Discount** (active until 31.Dec) 
 
 <br />
 
