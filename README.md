@@ -24,7 +24,7 @@
 
 <br />
 
-> [Buy on GUMROAD](https://appseed.gumroad.com/l/django-material2-pro/santa2022) - **50%OFF Discount** (active until 31.Dec) 
+> [Buy on GUMROAD](https://appseed.gumroad.com/l/flask-material2-pro/santa2022) - **50%OFF Discount** (active until 31.Dec) 
 
 <br />
 
