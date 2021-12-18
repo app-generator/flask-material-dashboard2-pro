@@ -18,13 +18,11 @@
 
 <br />
 
-> Links
-
-- [Flask Material 2 PRO](https://flask-material-dashboard2-pro.appseed-srv1.com) - LIVE deployment
+> LIVE Demo: [Flask Material 2 PRO](https://flask-material-dashboard2-pro.appseed-srv1.com) 
 
 <br />
 
-> [Buy on GUMROAD](https://appseed.gumroad.com/l/flask-material2-pro/santa2022) - **50%OFF Discount** (active until 31.Dec) 
+> [Buy Product](https://appseed.gumroad.com/l/flask-material2-pro/santa2022) - **50%OFF Discount** (offer ends 31.Dec) 
 
 <br />
 
