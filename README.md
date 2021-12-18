@@ -21,7 +21,7 @@
 > Links
 
 - [Flask Material 2 PRO](https://appseed.us/product/flask-material-dashboard2-pro) - product page
-- [Flask Material 2 PRO](https://flask-material-dashboard.appseed-srv1.com/) - LIVE deployment
+- [Flask Material 2 PRO](https://flask-material-dashboard2-pro.appseed-srv1.com) - LIVE deployment
 
 <br />
 
