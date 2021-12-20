@@ -20,12 +20,12 @@
 
 > Links: 
 
-- [Flask Material 2 PRO](https://appseed.us/product/flask-material-dashboard2-pro) - Product page
-- [Flask Material 2 PRO](https://flask-material-dashboard2-pro.appseed-srv1.com) - LIVE Demo
+- 👉 [Flask Material 2 PRO](https://appseed.us/product/flask-material-dashboard2-pro) - Product page
+- 👉 [Flask Material 2 PRO](https://flask-material-dashboard2-pro.appseed-srv1.com) - LIVE Demo
 
 <br />
 
-## Quick Start in `Docker`
+## ✨ Quick Start in `Docker`
 
 > Get the code 
 
@@ -48,7 +48,7 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-## How to use it
+## ✨ How to use it
 
 ```bash
 $ # Get the code
@@ -91,7 +91,7 @@ $ # Access the dashboard in browser: http://127.0.0.1:5000/
 
 <br />
 
-## Code-base structure
+## ✨ Code-base structure
 
 The project is coded using blueprints, app factory pattern, dual configuration profile (development and production) and an intuitive structure presented bellow:
 
@@ -164,7 +164,7 @@ The project is coded using blueprints, app factory pattern, dual configuration p
 
 <br />
 
-## Recompile CSS
+## ✨ Recompile CSS
 
 To recompile SCSS files, follow this setup:
 
@@ -207,7 +207,7 @@ The generated file is saved in `static/assets/css` directory.
 
 <br />
 
-## Deployment
+## ✨ Deployment
 
 The app is provided with a basic configuration to be executed in [Docker](https://www.docker.com/), [Heroku](https://www.heroku.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
 
@@ -290,7 +290,7 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Credits & Links
+## ✨ Credits & Links
 
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - The offcial website
 - [Boilerplate Code](https://appseed.us/boilerplate-code) - Index provided by **AppSeed**
