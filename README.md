@@ -22,8 +22,7 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-> Links: 
-
+![Flask Material Dash 2 PRO - Premium starter crafted by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/218248092-adf0dfe6-10bb-4665-aa89-dd6265d11995.png)
 
 <br />
 
