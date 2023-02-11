@@ -28,7 +28,7 @@ The product is designed to deliver the best possible user experience with highly
 
 ## ✨ Start the app in Docker
 
-> 👉 **Step 1** - Download & unzip the code
+> 👉 **Step 1** - Download & Unzip the code (`requires a purchase` from the official [product](https://appseed.us/product/material-dashboard2-pro/flask/) page)
 
 ```bash
 $ unzip flask-material-dashboard2-pro.zip
@@ -49,7 +49,7 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 
 ## ✨ How to use it
 
-> Download & unzip the code 
+> 👉 **Step 1** - Download & Unzip the code (`requires a purchase` from the official [product](https://appseed.us/product/material-dashboard2-pro/flask/) page)
 
 ```bash
 $ unzip flask-material-dashboard2-pro.zip
