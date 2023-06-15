@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.3] 2023-06-15
+### Changes
+
+- UI: Material Dash 2 PRO `v3.0.2`
+
 ## [1.0.2] 2023-02-11
 ### Changes
 
